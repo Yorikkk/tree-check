@@ -1,0 +1,20 @@
+{
+  "name": "tree-check",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "description": "Checker for checkboxes in different trees",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yorikkk/tree-check.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yorikkk/tree-check/issues"
+  },
+  "homepage": "https://github.com/Yorikkk/tree-check#readme"
+}
