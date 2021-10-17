@@ -1,4 +1,4 @@
-import { Checker } from "./checker";
+import { Checker } from "./checker.js";
 
 export class CheckerImplementor {
   children = [];

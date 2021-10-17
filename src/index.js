@@ -1,2 +1,2 @@
-export * from './classes/checker'
-export * from './classes/checkerImplementor'
+export * from './classes/checker.js'
+export * from './classes/checkerImplementor.js'
